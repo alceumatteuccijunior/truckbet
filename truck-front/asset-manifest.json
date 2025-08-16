@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/truck-front/static/css/main.1624d5f1.chunk.css",
+    "main.js": "/truck-front/static/js/main.ea481d0b.chunk.js",
+    "main.js.map": "/truck-front/static/js/main.ea481d0b.chunk.js.map",
+    "runtime~main.js": "/truck-front/static/js/runtime~main.dc55e8ab.js",
+    "runtime~main.js.map": "/truck-front/static/js/runtime~main.dc55e8ab.js.map",
+    "static/js/2.bc344bbf.chunk.js": "/truck-front/static/js/2.bc344bbf.chunk.js",
+    "static/js/2.bc344bbf.chunk.js.map": "/truck-front/static/js/2.bc344bbf.chunk.js.map",
+    "static/js/3.c60c86f6.chunk.js": "/truck-front/static/js/3.c60c86f6.chunk.js",
+    "static/js/3.c60c86f6.chunk.js.map": "/truck-front/static/js/3.c60c86f6.chunk.js.map",
+    "index.html": "/truck-front/index.html",
+    "precache-manifest.4e6a0704deef5f94a606d1b2a3c2a9aa.js": "/truck-front/precache-manifest.4e6a0704deef5f94a606d1b2a3c2a9aa.js",
+    "service-worker.js": "/truck-front/service-worker.js",
+    "static/css/main.1624d5f1.chunk.css.map": "/truck-front/static/css/main.1624d5f1.chunk.css.map"
+  }
+}
