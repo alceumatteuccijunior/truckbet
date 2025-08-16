@@ -75,8 +75,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         $cabecalhos  = 'MIME-Version: 1.0' . "\r\n";
         $cabecalhos .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
-        $cabecalhos .= 'From: TruckBet <noreply@truckbet.trovaobrasil.com.br>' . "\r\n" . // SUBSTITUA COM UM EMAIL REAL
-                       'Reply-To: noreply@truckbet.trovaobrasil.com.br' . "\r\n" . // SUBSTITUA COM UM EMAIL REAL
+        $cabecalhos .= 'From: TruckBet <noreply@truckbet.vip>' . "\r\n" . // SUBSTITUA COM UM EMAIL REAL
+                       'Reply-To: noreply@truckbet.vip' . "\r\n" . // SUBSTITUA COM UM EMAIL REAL
                        'X-Mailer: PHP/' . phpversion();
 
         $envio_sucesso = mail($destinatario, $assunto, $mensagem, $cabecalhos);

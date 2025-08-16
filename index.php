@@ -5,6 +5,6 @@
 
 // Redireciona o navegador para a pasta onde o seu frontend está.
 // O seu frontend está na pasta 'truck-front-simples/'
-header("Location: https://truckbet.trovaobrasil.com.br/public/");
+header("Location: https://truckbet.vip/public/");
 exit();
 ?>

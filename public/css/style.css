@@ -1,0 +1,22 @@
+/* Este arquivo é para CSS customizado que o Tailwind CDN não cobre facilmente,
+   ou para overrides muito específicos. */
+/* A maioria do estilo é definida diretamente com classes Tailwind nos arquivos HTML/PHP. */
+
+/* Exemplo de importação de fonte personalizada se você tiver arquivos de fonte localmente
+   e não via Google Fonts (ajuste o caminho se usar esta opção) */
+/* @font-face {
+    font-family: 'Bebas Neue';
+    src: url('/truck-front-simples/fonts/BebasNeue-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+/* Exemplo de como você ajustaria a imagem de fundo de dinheiro no home.php se não usasse o placeholder */
+.bg-money-falling {
+    background-image: url('/truck-front-simples/images/money-falling-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Este arquivo deve ser mantido o mais conciso possível, delegando o máximo ao Tailwind. */

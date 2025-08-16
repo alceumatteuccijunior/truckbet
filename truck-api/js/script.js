@@ -1,7 +1,7 @@
 // Arquivo: truck-front-simples/js/script.js
 document.addEventListener('DOMContentLoaded', () => {
     // URL base da sua API Laravel
-    const API_BASE_URL = 'https://truckbet.trovaobrasil.com.br/truck-api/public';
+    const API_BASE_URL = 'https://truckbet.vip/truck-api/public';
 
     // Elementos do Menu Hamburguer
     const menuButton = document.getElementById('menuButton');
